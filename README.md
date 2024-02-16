@@ -1,2 +1,2 @@
 # The-Arthur-Show
-Arthur Character Explorer: an Android app crafted in Java. Dive into the delightful world of the beloved Arthur TV show
+Arthur Character Explorer: an Android app crafted in Java. Dive into the delightful world of the beloved Arthur TV show. Dive into the delightful world of the beloved Arthur TV show with a dynamic RecyclerView layout, showcasing a collection of characters. Each character comes with a concise description, providing insights into their personalities and roles within the series. Arthur Character Explorer offers an engaging experience, combining sleek design with informative content for all ages to enjoy.
